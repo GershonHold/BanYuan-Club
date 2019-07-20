@@ -1,6 +1,6 @@
 //将字符串转化为码点并存入数组，再转化回字符串
 
-public class Pratice {
+public class Pratice1 {
     public static void main(String[] args) {
         String str="Hello";
         int i;
