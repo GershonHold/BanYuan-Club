@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #define SIZE 5
 
 int push(int *p, int top, int elem)
@@ -41,3 +41,32 @@ int main() {
 
 	return 0;
 }
+
+
+
+*/
+
+
+#include <stdio.h>
+#include <string.h>
+
+int main()
+
+{
+	char s[2]="ABC";
+	puts(s[2]);
+	return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
